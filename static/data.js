@@ -60,6 +60,7 @@ export const Resources = [{
   code: '1-4',
   name: 'Git源码',
   data: {
+    '前端资源导航': ['https://github.com/liuzhengzheng/HelloFE', '本页面的实现源码，基于vue2实现（持续更新...）'],
     'vue2-elm': ['https://github.com/bailicangdu/vue2-elm', '基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用'],
     'iView-Admin': ['https://github.com/iview/iview', 'iview发布的后台管理系统'],
     'react-draggable': ['https://github.com/mzabriskie/react-draggable', 'React拖拽功能']
