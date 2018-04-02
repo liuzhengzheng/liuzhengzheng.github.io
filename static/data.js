@@ -5,10 +5,19 @@ export const Resources = [{
     '大前端': ['http://www.daqianduan.com/', '前端开发为主的综合性博客性媒体'],
     '掘金': ['https://juejin.im/?utm_source=gold_browser_extension', '一个帮助开发者成长的社区'],
     '技术胖': ['http://jspang.com/', '关注WEB前端技术，帮助web初学者学习'],
+    '阮一峰的网络日志': ['http://www.ruanyifeng.com/blog/javascript/', '各种技术教程'],
+    '慕课网': ['https://www.imooc.com/', '学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源。'],
+    '廖雪峰的官方网站': ['https://www.liaoxuefeng.com/', 'Js、Python和git教程'],
     'CodePen': ['https://codepen.io/', '在线开发编辑器'],
     'w3ctech': ['https://www.w3ctech.com/', 'web标准化交流会'],
     'upyang': ['http://www.upyang.com/', '一个IT技术分享博客'],
-    'GithubPages': ['https://blog.csdn.net/yanzhenjie1003/article/details/51703370', 'GithubPages上搭建个人主页,亲测可用']
+    'GithubPages': ['https://blog.csdn.net/yanzhenjie1003/article/details/51703370', 'GithubPages上搭建个人主页,亲测可用'],
+    '前端面试题': ['https://mp.weixin.qq.com/s/_l4aPuOJLAoLwuXo1CieOg', '传统前端面试题'],
+    'Webpack 中文指南': ['http://zhaoda.net/webpack-handbook/', '使用 Gitbook 撰写并生成的Webpack 中文指南'],
+    'es6入门': ['http://es6.ruanyifeng.com/', '阮一峰'],
+    'ES6的Fetch异步请求': ['https://blog.csdn.net/picking_up_stones/article/details/69330436', 'Fetch请求使用方法与实例、与ajax对比'],
+    'Immutable': ['https://zhuanlan.zhihu.com/p/20295971', 'Immutable 详解及 React 中实践'],
+    'PWA文档': ['https://lavas.baidu.com/mip/doc/README', 'Progressive Web App, 简称 PWA']
   }
 },
 {
@@ -16,24 +25,45 @@ export const Resources = [{
   name: '前端框架',
   data: {
     'Vue.js': ['https://vuefe.cn/', 'Vue 2.0中文文档'],
+    'iView文档': ['http://v1.iviewui.com/docs/guide/install', '一套基于 Vue.js 的高质量 UI 组件库'],
     'Vue学习路线（技术胖）': ['http://jspang.com/2018/01/21/vue-timeline/', '非常好的vue入门教程'],
     'Vue踩坑点': ['https://blog.csdn.net/xidongdong1/article/details/78613654', 'Vue中一些需要注意的点'],
-    '深入理解Vue.js组件': ['https://blog.csdn.net/web_wusheng/article/details/70544280', 'CSDN']
+    '深入理解Vue.js组件': ['https://blog.csdn.net/web_wusheng/article/details/70544280', 'CSDN'],
+    '深入浅出React和Redux': ['https://yuedu.baidu.com/ebook/13a8a560bdd126fff705cc1755270722192e5938?pn=2&pa=3', '深入浅出React和Redux，最经典的React入门教材'],
+    'Ant Design of React': ['https://ant.design/docs/react/introduce-cn', '阿里出品'],
+    'React基础解析': ['https://segmentfault.com/a/1190000009412101', '有意思的React官网教程基础解析'],
+    'React简介和原理': ['http://anjia.github.io/2015/07/24/fe_react/', '挺好的React入门文章'],
+    'React中国社区': ['http://react-china.org/', '各种React相关资源分享和问答'],
+    '非React脚手架入门': ['https://www.jianshu.com/p/4df92c335617', '从零开始，教你用Webpack构建React基础工程（简书）'],
+    'React入门': ['https://segmentfault.com/a/1190000007419958', '入门与实例（segmentfault）'],
+    'React全栈教程': ['https://coding.imooc.com/class/150.html', 'Redux+React Router+Node.js全栈开发（慕课网）'],
+    'Flux 架构入门教程': ['http://www.ruanyifeng.com/blog/2016/01/flux.html', '阮一峰的网络日志'],
+    'CSS Modules 用法教程': ['http://www.ruanyifeng.com/blog/2016/06/css_modules.html', '阮一峰的网络日志'],
+    'CSS模块化好处': ['https://blog.csdn.net/xiangzhihong8/article/details/53195926', '总结了css模块化的好处'],
+    'React生命周期': ['http://www.jianshu.com/p/4784216b8194', 'React生命周期小结，总结的非常好（简书）'],
+    'JSX语法详解': ['http://www.css88.com/archives/5632#more-5632', '一文看懂JSX的好处'],
+    '组件化开发历程': ['https://www.zhihu.com/question/29735633', '知乎上很有意思的关于组件化开发的讲解'],
+    '三大框架总结': ['https://blog.csdn.net/haoshidai/article/details/52346865', '前端框架天下三分：Angular React 和 Vue的比较']
   }
 },
 {
   code: '1-3',
   name: '前端插件',
   data: {
-    'select2中文': ['http://www.cnblogs.com/liuxiaobo93/p/5112993.html', '下拉选择框插件，详细参考官方网站']
+    'select2中文': ['http://www.cnblogs.com/liuxiaobo93/p/5112993.html', '下拉选择框插件，详细参考官方网站'],
+    'SyntaxHighlighter': ['http://www.cnblogs.com/meiqunfeng/archive/2009/11/24/1609238.html', '代码高亮插件SyntaxHighlighter'],
+    'bootstrap table': ['http://www.cnblogs.com/landeanfen/p/5005367.html', '表格组件神器'],
+    'plotly': ['https://help.plot.ly/tutorials/#dashboard', 'plotly文档']
   }
 },
 {
   code: '1-4',
   name: 'Git源码',
   data: {
+    '前端资源导航': ['https://github.com/liuzhengzheng/HelloFE', '本页面的实现源码，基于vue2实现（持续更新...）'],
     'vue2-elm': ['https://github.com/bailicangdu/vue2-elm', '基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用'],
-    'iView-Admin': ['https://github.com/iview/iview', 'iview发布的后台管理系统']
+    'iView-Admin': ['https://github.com/iview/iview', 'iview发布的后台管理系统'],
+    'react-draggable': ['https://github.com/mzabriskie/react-draggable', 'React拖拽功能']
   }
 },
 {
@@ -45,16 +75,19 @@ export const Resources = [{
     'Browsershot': ['http://browsershots.org/', '超多的浏览器兼容性在线测试，免去了在本机安装N多浏览器的'],
     '二维码在线生成器': ['http://www.haorooms.com/tools/erweima/', '二维码在线生成器'],
     'css在线选择器': ['http://www.haorooms.com/tools/css_selecter/', 'css在线选择器'],
-    'css3动画': ['http://www.haorooms.com/uploads/example/Animatecss/', '可以下载css各种动画代码'],
-    '小工具': ['http://www.haorooms.com/tools/index', '一些小工具']
+    'css3动画': ['http://www.haorooms.com/uploads/example/Animatecss/', '可以下载css各种动画代码']
   }
 },
 {
   code: '1-6',
-  name: '前端教程',
+  name: '开源社区',
   data: {
-    '慕课网': ['https://www.imooc.com/', '学习编程最简单的免费平台，慕课网提供了丰富的移动端开发、php开发、web前端、html5教程以及css3视频教程等课程资源。'],
-    '廖雪峰的官方网站': ['https://www.liaoxuefeng.com/', 'Js、Python和git教程']
+    'stackoverflow': ['https://stackoverflow.com/', '质量上乘的技术类问答社区'],
+    '开源中国社区': ['https://www.oschina.net/', '开源项目下载'],
+    'segmentfault': ['https://segmentfault.com/', '各种各样的技术问题可以在此寻找答案'],
+    'f2e': ['http://www.f2e.im/', '前端技术社区'],
+    '前端乱炖': ['http://www.html-js.com/', 'Coding 技术博客 专栏'],
+    'w3cvip': ['https://www.w3cvip.org/', 'w3c-前端社区']
   }
 },
 {
